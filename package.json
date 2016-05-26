@@ -25,7 +25,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "jquery": "^2.2.4",
-    "ts-loader": "^0.8.2"
+    "ts-loader": "^0.8.2",
+    "jquery": "~2.2.4"
   }
 }
